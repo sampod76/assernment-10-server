@@ -28,6 +28,12 @@ app.get('/allCorses/:id',(req,res)=>{
 
 })
 
+app.get('/language/pdf' ,(req,res)=>{
+  const Allpdf = language.map(pdf => pdf.urlPdf)
+ res.send(Allpdf)
+
+})
+
 
 app.listen(port ,()=>{
     console.log('The server run 5000 port')
