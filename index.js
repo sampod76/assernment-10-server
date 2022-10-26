@@ -4,16 +4,29 @@ const cors =require ('cors');
 
 const app=express();
 
+
 const port = process.env.PORT || 5000;
 
 app.use(cors());
+
+const language=require('./src/programing.json')
 
 app.get('/',(req,res)=>{
     res.send('this is home page')
 });
 
+app.get('/allCorses',(req,res)=>{
+    res.send(language)
+})
+
+app.get('/allCorses/:id',(req,res)=>{ 
+    const id =req.params.id;
+    const corse=language.find(lan=> lan.id === id);
+    res.send(corse)
+    // console.log(corse)
 
 
+})
 
 
 app.listen(port ,()=>{
