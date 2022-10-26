@@ -3,8 +3,10 @@
     "id": "63575938530ddc881f710585",
     "index": 0,
     "balance": "$3,923.60",
-    "picture": "https://media.istockphoto.com/photos/3d-text-of-java-picture-id870344898?b=1&k=20&m=870344898&s=170667a&w=0&h=RyvW8NdmeNj9_v2rA30yqZ7Q2hE5RDBCrOQlH52Bzk0=",
+    "picture": "https://thumbs2.imgbox.com/1e/2c/HCTYWo2a_t.jpg",
     "name": "Java",
+    "urlPdf":"https://www.tutorialspoint.com/java/java_tutorial.pdf",
+
     "company": "Oracle Corporation",
     "title": "The Complete Java Development Bootcamp",
     "about": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.ava is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies.Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),[17] meaning that compiled Java code can run on all platforms that support Java without the need to recompile.[18] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2019, Java was one of the most popular programming languages in use according to GitHub,[19][20] particularly for"
@@ -15,6 +17,7 @@
     "balance": "$3,597.72",
     "picture": "https://i.ibb.co/2NCx2Lr/php.png",
     "name": "PHP",
+    "urlPdf":"https://www.tutorialspoint.com/php/php_tutorial.pdf",
     "company": "IndiaNIC InfoTech",
     "title": "Build a Complete Registration and Login System using PHP",
     "about": "PHP (recursive acronym for PHP: Hypertext Preprocessor ) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.PHP is a general-purpose scripting language geared toward web development.[5] It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993.[6] The PHP reference implementation is now produced by The PHP Group.[7] PHP originally stood for Personal Home Page,[8] but it now stands for the recursive initialism PHP: Hypertext Preprocessor.[9]PHP code is usually processed on a web server by a PHP interpreter implemented as a module, a daemon or as a Common Gateway Interface (CGI) executable. On a web server, the result of the interpreted and executed PHP code – which may be any type of data, such as generated HTML or binary image data – would form the whole or part of an HTTP response. Various web template systems, web content management systems, and web frameworks exist which can be employed to orchestrate or facilitate the generation of that response. Additionally, PHP can be used for many programming tasks outside the web context, such as standalone graphical applications[10] and robotic drone control.[11] PHP code can also be directly executed from the  "
@@ -23,8 +26,9 @@
     "id": "63575938812d675996770b1a",
     "index": 2,
     "balance": "$1,670.03",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://thumbs2.imgbox.com/76/2e/bw5v6nlV_t.png",
     "name": "C++",
+    "urlPdf":"https://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf ",
     "company": "ISOLOGICA",
     "title": "Beginning C++ Programming ",
     "about": "So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction. Maybe you want to learn how to write PHP the right way. Secure code, OOP ready, and maximising reusability as well as finding out about PHP programming standards to adopt and adhere too? Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast. Whatever the reason, this course is for you. This course is going to teach you how to create web applications using PHP and MySQL. Specifically, you will learn PHP and then create you own content management system (CMS) from scratch.So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction. Maybe you want to learn how to write PHP the right way. Secure code, OOP ready, and maximising reusability as well as finding out about PHP programming standards to adopt and adhere too? Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast. Whatever the reason, this course is for you. This course is going to teach you how to create web applications using PHP and MySQL. Specifically, you will learn PHP and then create you own content management system (CMS) from scratch"
@@ -35,6 +39,7 @@
     "balance": "$2,214.11",
     "picture": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
     "name": "JavaScript",
+    "urlPdf":"https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf",
     "company": "Oracle Corporation",
     "title": "Javascript Tutorial and Projects Course (2022)",
     "about": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.  JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.  Contrary to popular misconception, JavaScript is not . In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs, such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages (or nearly so)."
@@ -45,6 +50,7 @@
     "balance": "$1,495.12",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-G7lfHVAusHMoTKbHXHA0RtXGzOfyHx_T-Q&usqp=CAU",
     "name": "Python",
+    "urlPdf":"https://www.tutorialspoint.com/php/php_tutorial.pdf",
     "company": "The Python Software Foundation",
     "title": "Complete Python Developer in 2022: Zero to Mastery",
     "about": "Python has become one of the most popular programming languages in the world in recent years. It's used in everything from machine learning to building websites and software testing. It can be used by developers and non-developers alike.Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn’t specialized for any specific problems. This versatility, along with its beginner-friendliness, has made it one of the most-used programming languages today. A survey conducted by industry analyst firm RedMonk found that it was the second-most popular programming language among developers in 2021 "
@@ -55,6 +61,7 @@
     "balance": "$2,656.66",
     "picture": "https://i.ibb.co/9tJb7Vm/swift-og.png",
     "name": "Swift",
+    "urlPdf":"https://www.tutorialspoint.com/swift/swift_tutorial.pdf",
     "company": "Suzuki Swift",
     "title": "SwiftUI Masterclass 2022",
     "about": "So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction.  Maybe you want to learn how to write PHP the right way.  Secure code, OOP ready, and maximising re-usability as well as finding out about PHP programming standards to adopt and adhere too?  Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast.  Whatever the reason, this course is for you.  This course is going to teach you how to create web applications using PHP and MySQL.  Specifically, you will learn PHP and then create you own content management system (CMS) from scratch.Through version 3.0 the syntax of Swift went through significant evolution, with the core team making source stability a focus in later versions.[18][19] In the first quarter of 2018 Swift surpassed Objective-C in measured popularity.[20]  Swift 4.0, released in 2017, introduced several changes to some built-in classes and structures. Code written with previous versions of Swift can be updated using the migration functionality built into Xcode. Swift 5, released in March 2019, introduced a stable binary interface on Apple platforms, allowing the Swift runtime to be incorporated into Apple operating systems. It is source compatible with Swift 4.[21]  Swift 5.1 was officially released in September 2019. Swift 5.1 builds on the previous version of Swift 5 by extending the stable features of the language to compile-time with the introduction of module stability. The introduction of module stability makes it possible to create and share binary frameworks that will work with future releases of Swift.[22]  Swift 5.5, officially announced by Apple at the 2021 WWDC, significantly expands language support for concurrency and asynchronous code, notably introducing a unique version of the actor model.[23]"
@@ -65,6 +72,7 @@
     "balance": "$2,283.52",
     "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png",
     "name": "Ruby",
+    "urlPdf":"https://www.tutorialspoint.com/ruby/ruby_tutorial.pdf",
     "company": "Nevinainfotech",
     "title": "Comprehensive Ruby Programming",
     "about": "Ruby and Python are popular, powerful, and relatively easy to learn programming languages for developing web applications. New programmers often choose one or the other to start, but which is best for you?Ruby and Python are two popular computer languages used in building web applications. Both are clean, readable, and open-sourced and are high-level, back-end languages used to create the server functions needed to support the application’s front end. Developers can create web applications on different browsers and operating systems with either Ruby or Python. There are differences, of course—Ruby and Python are not identical. As a prospective developer, you might want to choose one or the other based on your interests in programming and the types of applications you want to build.Python is generally better for educational use or for people who want to build quick programs rather than work as developers, while Ruby is better for commercial web applications. There are more specific differences when comparing Ruby versus Python, and they have in common that there are many ways to learn both.  "
